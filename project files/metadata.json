@@ -1,0 +1,5 @@
+{
+  "name": "Study App",
+  "description": "A comprehensive video course platform for teachers and students. Teachers can create and manage courses, while students can enroll, learn, and earn certificates.",
+  "requestFramePermissions": []
+}
